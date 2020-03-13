@@ -1,2 +1,2 @@
 # statemachine
-Máquina de estado usando o SpringStateMachine
+Máquina de estado usando o SpringStateMachine.
